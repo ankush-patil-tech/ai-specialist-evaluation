@@ -1,0 +1,62 @@
+
+ticket_id,message,category
+TKT001,"I was charged twice for my monthly subscription",billing
+TKT002,"My invoice shows an incorrect amount",billing
+TKT003,"I need a refund for my last payment",billing
+TKT004,"My credit card payment was declined",billing
+TKT005,"Please update my billing address",billing
+TKT006,"The application crashes when I open it",technical_issue
+TKT007,"I cannot log in to my account",technical_issue
+TKT008,"The API returns a 500 internal server error",technical_issue
+TKT009,"The website is loading very slowly",technical_issue
+TKT010,"I receive an error when uploading a file",technical_issue
+TKT011,"What are your business hours?",general_inquiry
+TKT012,"How can I contact customer support?",general_inquiry
+TKT013,"Can you explain the features of your product?",general_inquiry
+TKT014,"Where can I find the user manual?",general_inquiry
+TKT015,"I would like more information about your services",general_inquiry
+TKT016,"My subscription renewal was charged twice",billing
+TKT017,"The amount deducted does not match my invoice",billing
+TKT018,"How can I download my payment receipt",billing
+TKT019,"I want to cancel my paid subscription",billing
+TKT020,"My refund has not arrived in my bank account",billing
+TKT021,"The tax amount on my bill seems incorrect",billing
+TKT022,"Please change the card used for future payments",billing
+TKT023,"I was charged even though my plan expired",billing
+TKT024,"Can I get an invoice for the previous month",billing
+TKT025,"My payment is showing as pending",billing
+TKT026,"I need to update the company billing details",billing
+TKT027,"Why was my account charged an extra fee",billing
+TKT028,"The discount was not applied to my subscription",billing
+TKT029,"I received a payment confirmation for an unknown transaction",billing
+TKT030,"Please explain the charges listed on my statement",billing
+TKT031,"The application freezes whenever I open settings",technical_issue
+TKT032,"I receive a timeout when calling the API",technical_issue
+TKT033,"File uploads fail for documents larger than ten megabytes",technical_issue
+TKT034,"My password reset link returns an error",technical_issue
+TKT035,"The dashboard displays a blank screen",technical_issue
+TKT036,"I cannot connect to the application database",technical_issue
+TKT037,"The server returns a 503 response",technical_issue
+TKT038,"Notifications stopped working after the update",technical_issue
+TKT039,"The application crashes when exporting reports",technical_issue
+TKT040,"Login requests are taking too long to complete",technical_issue
+TKT041,"The integration fails to authenticate with our API",technical_issue
+TKT042,"I see a connection refused error on startup",technical_issue
+TKT043,"The search function returns no results for valid queries",technical_issue
+TKT044,"My browser session expires immediately after login",technical_issue
+TKT045,"The latest release broke the file download feature",technical_issue
+TKT046,"What features are included in the standard plan",general_inquiry
+TKT047,"Where can I read the product documentation",general_inquiry
+TKT048,"Do you provide onboarding sessions for new customers",general_inquiry
+TKT049,"How do I contact the sales department",general_inquiry
+TKT050,"Is there a mobile version of this application",general_inquiry
+TKT051,"Can you explain the difference between your plans",general_inquiry
+TKT052,"Where can I find information about supported integrations",general_inquiry
+TKT053,"What are the requirements for creating an account",general_inquiry
+TKT054,"Do you offer training materials for new users",general_inquiry
+TKT055,"How can I submit product feedback",general_inquiry
+TKT056,"Which browsers are officially supported",general_inquiry
+TKT057,"Can multiple team members use the same workspace",general_inquiry
+TKT058,"Where can I find the product release notes",general_inquiry
+TKT059,"How do I request a demonstration of your product",general_inquiry
+TKT060,"What languages does the application support",general_inquiry

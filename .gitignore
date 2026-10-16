@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Generated artifacts
+models/*.joblib
+vector_index/
+
+# Tests and logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log

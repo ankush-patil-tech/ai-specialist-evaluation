@@ -1,0 +1,23 @@
+
+Engineering Service Operations Guide
+
+1. Service Restart
+Before restarting a service, check its health status and review
+the application logs. Confirm that no deployment is currently
+in progress. Follow the service-specific recovery procedure.
+
+2. HTTP Errors
+HTTP 500 indicates an internal server error.
+HTTP 503 indicates that a service is unavailable.
+Review application logs and service health before escalating.
+
+3. Database Connectivity
+If an application cannot connect to its database, verify the
+database endpoint, network connectivity, credentials, and whether
+the database service is running. Never include passwords or
+secrets in diagnostic logs.
+
+4. Incident Escalation
+Escalate unresolved production incidents to the responsible
+service owner. Include the incident time, observed symptoms,
+relevant error messages, and troubleshooting steps already taken.
